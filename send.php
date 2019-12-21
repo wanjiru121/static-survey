@@ -7,5 +7,5 @@ $body = "Hey you need to work. \n\n $name";
 
 mail ($to,$subject,$body);
 
-echo "Message Sent!"
->
+echo "Message Sent!";
+?>
